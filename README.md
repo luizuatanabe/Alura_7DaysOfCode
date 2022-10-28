@@ -1,1 +1,1 @@
-# Alura_7DaysOfCode
+#7DaysOfCode - Challenge de 7 dias da Alura, em JavaScript.
